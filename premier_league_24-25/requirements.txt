@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+beautifulsoup4
+requests
+fastapi
+uvicorn
+sqlalchemy
+bcrypt
+python-dotenv
